@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "voltaic-cocoa-311217",
+  "private_key_id": "199c02db18d98e9d967acc2c4f1f558ba034141d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCo9CbHJyXh7qXs\nIh2gQ9hwe+QW+1XHJrgY1h6RFnwAq/2pOI9m29FDe8miedrhhsFq4kGIfH2U8fzH\nUV836uwQyqM2N8rpsj3IoibfqUBh2rXyJBFTfv1qo6vCVkfh//uLfmukVa9/KLeJ\nbFIeTIq9//VGOI1qPkEGVolAzDCYsnU6VX3JuKLa1zSgMPa5qhOAds9eEgRfe64v\nFbAjuLe7LdwYGalufx5NndKMFQijQWNkRfSgKz7lthjzFk8cyu+M+w33FbCFEdXz\nIEJDsoUiOSKswZd4/LQCnwy/YxIvyJHqVJbNXBsh0PuvvhHa0PqcE3001mkdGtYv\nw8isy+oLAgMBAAECggEANkCkPRokj363F/LCiaaPl1spHHobisYzooILMbLDIeIY\no6CuZ6yZb26OClbPwtCnRj+eJIo5Nz1XWteV2Fpe8Gtpam0TAuUB8u2ixvpN2r5E\n45rSV3n1PSuOaWqUTY2KBDqVrSD4qD/2Y7H9Uo5olOdepuxc+KtB7RuXmk+XIUjT\nPJsQrpi0BmnmaTD5XE46AaoaxquaQUGcHdCkoslmCvqnb6UqSlwer2XXrGxr/wlx\nCgm1C05tb80zOnNZvrOD8rtAIvKi3UmH21McdHim/GD0zgmnEXfh0nQ+TQct7z79\nt4g3MbAjbLnX+U4LD3BnVA3FM2mAUeYMmtpZ+IXJEQKBgQDWXOu/MBnnPrL0WoaN\nahNhUZb4WCPR0fEqFJ6ymXKuIj23euWdiviyT43VaYzqm5cz1JKQCpd5F+hFX5V4\nfjTHq3vJVwJ1mSUACbFG24r7NvmkXobCfiDJsGaXv4ABDnFqdKXic/Eo1YbG02F+\ntMnVFDd8SIzjFmSPp56cnz6IGwKBgQDJxUfcwq7yaRTJKQ5CMq8sdsdPf74+wXxp\noLkyhjp4jye+KMq/5UWVXUZ0k6sXf3ziLpMmPXNO50NX2nDVVFLwG9lJ127vn37g\ni6mOyYmiqVvPgUkbHr7Zro5OaOrPaU7F6rIMCikj4gpFwXiqK6LjUykkmABqvfTg\nALpyfoEk0QKBgEF5FiRKG89OjjgmIiy1NoAl/HeT7DTc680PiT1Bsw5OtQ0Cg3lw\nBe/oboi9eWX66d7R0YYfRg6dZ7swq6Wm3pYR4XgolD647N0rGLNswPFj5DH5ES38\neiVANMWqnv0znR6HzFbzVLhFJ6o4y/F4ZKEpUJ0sR6PgpgxehQqPdPj7AoGBAL/k\n4ZCik3I24C7k3gu1WoamPK5uJohWyjVHR3s2z7tDIyAmeZWBvujsOgq7OnfxptsS\nQp6WyOic555RQQiS1wJG6iPhQT+iaC+0hEEpib3q5kd2hQnG9uneqrcF73Ptip6O\ntGDg9PmMjAqFk3X8ZEFhIPsNmS/rk03LQ4eKqtZRAoGAP0NNDZVhpiUoHR21vdjD\n1SuIJ3Jn32oxx7OA5bWCz/2wPxqq2nH+I8Oj5FwaTyMaFFcP7rnmafcWCiAWT8s0\nAE6VDwUXdGYf/BTrgOjkMWWdre3DGXvH+wnnHltp0nWYdu6sHl4QBLjshUwge0EF\nZTKf5fAFQKxTZlWd1rhQtak=\n-----END PRIVATE KEY-----\n",
+  "client_email": "discord-ears-bot@voltaic-cocoa-311217.iam.gserviceaccount.com",
+  "client_id": "111676263121908769781",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/discord-ears-bot%40voltaic-cocoa-311217.iam.gserviceaccount.com"
+}
